@@ -1,3 +1,7 @@
+---
+title: 'Arduino Intermediate Activity'
+---
+
 ## Welcome to the Second Intermediate Workshop
 
 This intermediate workshop builds on audio and stuff and this message is a formatting placeholder!
