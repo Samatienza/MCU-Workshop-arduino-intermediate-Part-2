@@ -93,86 +93,7 @@ you need to install a driver**
 <img src="./assets/2_F26_TD_Activity/media/image4.png"
 style="width:6.5in;height:0.73403in" />
 
-**Sketch and Construction**
-
-1.  Based on your observations of the speaker, brainstorm design
-    objectives for a cab to house this speaker. As a group, choose 3
-    design objectives that you believe are the most important for your
-    design.
-
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th>Design Objective #1</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Design Objective #2</td>
-<td></td>
-</tr>
-<tr>
-<td>Design Objective #3</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-1.  Spend 10 minutes sketching a design idea for the speaker cab based
-    on your group’s design objectives. Each group member should sketch
-    their own design individually. Set a timer to help your group stay
-    on track.
-
-2.  Take turns presenting your ideas to the group. Explain how you
-    incorporated the design objectives into your sketch.
-
-3.  As a group, choose the design you want to build. Consider how
-    feasible it is to build the design using the provided materials. If
-    you have a design that requires more materials, you may ask for more
-    cardboard to but MUST justify why the increased materials cost is
-    required.
-
-4.  <span class="mark">Make a <u>scale drawing in AutoCAD</u> of your
-    cardboard cutouts that will used to assemble your speaker.</span>
-
-    1.  <span class="mark">Note that all of your cutouts will have to
-        fit on a 12x12” sheet of cardboard.</span>
-
-    2.  <span class="mark">Your cutting lines should be object lines,
-        and folding lines should use hidden lines.</span>
-
-    3.  <span class="mark">You must have a title block (the size/shape
-        of the block doesn’t matter for this time) with the name of the
-        speaker, the names of your group members, and the scale of your
-        drawing.</span>
-
-    4.  <span class="mark">Add notes to communicate supplemental
-        information, as needed.</span>
-
-5.  <span class="mark">Receive a speaker from a TA and proceed to
-    assemble your speaker cabinet using the provided cardboard and hot
-    glue guns.</span>
-
-## Day 1 Presentation
-
-Groups will be asked to give a brief (no longer than 5 minutes)
-presentation of their design to the TAs. For this brief presentation
-each group will be asked to cover the following:
-
-1.  Present your final sketches, and any other design documents that
-    they think are important to show their design process.
-
-2.  Discuss your group’s main design objectives and key features of the
-    design that help it achieve its design objectives. Be sure to
-    describe any changes your group made as you constructed the speaker
-    cab or changes you recommend for future iterations.
-
-3.  Demo your speaker design and allow the TAs to get a measurement of
+  Demo your speaker design and allow the TAs to get a measurement of
     your speaker cab’s loudness. For this you must have the waveform set
     to the default Sine Wave in your code with a frequency value set to
     1 kHz (this is the standard test tone).
@@ -191,12 +112,6 @@ in the code for the loudness measurement:
 <img src="./assets/2_F26_TD_Activity/media/image5.png"
 style="width:6.5in;height:1.69444in"
 alt="A screen shot of a computer program Description automatically generated" />
-
-### Design Aesthetic Competition
-
-Each group will have their design evaluated from an aesthetic
-perspective by the WEEF TAs or IDEAS CLINIC CO-OPS. One winner will be
-chosen from each stream.
 
 # Day 2 – Oct. 9
 
