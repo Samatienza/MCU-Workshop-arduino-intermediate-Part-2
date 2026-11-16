@@ -1,3 +1,4 @@
+## Workshop 1
 In many modern songs, we hear sounds that are not recognizable as
 traditional instruments such as the guitar, piano, violin, drums. These
 sounds are created by electrical musical instruments called
@@ -26,94 +27,6 @@ F26\_TD\_Recreating\_a\_Piano\_Note.docx.
 
 Once you finish this activity, play ***sine\_wave\_approx.wav*** for the
 teaching team to receive materials for the next activity.
-
-## Design Plate and Speaker Cab
-
-You are to design a baseplate that you will be mounting the PCB on as
-well as integrating a speaker cab that will sit on the baseplate. You
-will be using BASIC\_CIRCUIT\_CHECK.ino to show the feasibility of your
-TRON DAYS design, and to communicate design details. On Day 2, you will
-be provided with a PCB that works with the provided synth code.
-
-Ensure that you have all of the materials listed below before you begin:
-
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th>Component Name</th>
-<th>Number of Components</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Seeeduino Nano</td>
-<td>1</td>
-</tr>
-<tr>
-<td>USB-C Cable (for Seeeduino)</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Breadboard</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Amplifier</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Jumper Wires</td>
-<td>6</td>
-</tr>
-<tr>
-<td>Push Button</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Cardboard</td>
-<td>1 ft<sup>2</sup>/~0.093 m<sup>2</sup> (12” x 12”)</td>
-</tr>
-<tr>
-<td>Scissors</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Hot Glue Gun</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Glue Stick</td>
-<td>1</td>
-</tr>
-</tbody>
-</table>
-
-Note: The building materials will be provided once your group shows the
-TAs your AutoCAD drawings.
-
-<img src="./assets/2_F26_TD_Activity/media/image1.png"
-style="width:6.53584in;height:3.98958in" />
-
-You are expected to have completed design sketches by the end of Day 1
-which must include proper dimensions. Please note, you are expected to
-submit a 2D layout of the 12”x12” cardboard and cut lines of your design
-using AutoCAD. There will be a competition at the end of the Day 1 to
-see which group has created the loudest cabinet, and a vote on which
-cabinet has the best aesthetic design. Winners will get bragging rights,
-a sense of pride in their work, and everlasting fame and glory. Note
-that a common side effect of winning is a general feeling of superiority
-over your peers, do not let this develop into a god complex as it may
-make you lose objectiveness for winning the Day 2 competitions.
-
-The speaker dimensions are:
-
-- 3 Inch (25.4mm) Cone
-
-- 77.8mm x 77.8mm x 25.49mm
 
 **Circuit:** Start by wiring up a circuit to test the speaker, as shown
 in the diagram below:
