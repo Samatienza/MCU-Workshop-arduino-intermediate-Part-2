@@ -15,106 +15,6 @@ components such as filters, which cut or boost frequencies; envelopes,
 which control articulation or how notes begin and end; and low-frequency
 oscillators, which modulate parameters such as pitch, volume, or tone.
 
-## Manipulating Sound Waves
-
-Follow the instructions outlined in
-F26\_TD\_Manipulating\_Sound\_Waves.docx.
-
-## Recreating a Piano Note
-
-Follow the instructions outlined in
-F26\_TD\_Recreating\_a\_Piano\_Note.docx.
-
-Once you finish this activity, play ***sine\_wave\_approx.wav*** for the
-teaching team to receive materials for the next activity.
-
-**Circuit:** Start by wiring up a circuit to test the speaker, as shown
-in the diagram below:
-<img src="./assets/2_F26_TD_Activity/media/image2.png"
-style="width:6.43542in;height:3.80833in"
-alt="A circuit board with wires and a speaker Description automatically generated" />
-
-You will run a program that outputs various waves. The BASIC\_CIRCUIT
-\_CHECK.ino code reads the values from the digital pins and prints them
-to the serial monitor.
-
-1.  Download and open BASIC\_CIRCUIT \_CHECK.ino. After the IDE opens, a
-    popup window may appear, prompting you to create a new folder to
-    store your project in. Choose ‘**Ok**’. The IDE should look like
-    this:
-
-<img src="./assets/2_F26_TD_Activity/media/image3.png"
-style="width:6.5in;height:1.84306in"
-alt="A screenshot of a computer Description automatically generated" />
-
-1.  Using the provided USB-C to USB-A cable, plug your Seeeduino Nano
-    into your computer. An LED on the Seeeduino Nano should turn on,
-    indicating that it is receiving power.
-
-2.  Next, select the appropriate board and port that you will be
-    uploading your code to. From the ‘**Select Board**’ dropdown menu,
-    choose ‘**Select Other Board and Port**’ and choose ‘**Seeeduino
-    Nano**’. Select the port that appears in the ‘**Ports**’ menu, then
-    select ‘**OK**’ to close the pop-up window.
-
-**<span class="mark">NOTE</span> if you cannot select a port then then
-you need to install a driver**
-
-1.  Download and install the driver (make sure to unzip the downloaded
-    driver folder)
-
-2.  Open device manager
-
-3.  Click on the seeeduino tab (check under Other Devices) and pick
-    install drivers
-
-4.  Browse to downloaded driver and select it to be installed
-
-5.  If you are having trouble, then ask for help
-
-<!-- -->
-
-1.  Run your code. It is a good idea to verify that your code works
-    before uploading it to the microcontroller. Press the ‘**Verify**’
-    check mark button. The output window should appear after the code
-    finishes compiling.
-
-2.  If there are no error messages, proceed by sending the code to the
-    synthesizer using the ‘**Upload**’ arrow button. A message should
-    appear in the Output once the upload has finished.
-
-3.  To change the wave that is outputted, change lines 52-55 so that a
-    different line is uncommented, then upload the new code to the
-    Seeeduino Nano. Use ‘**Ctrl**’ + ‘**/**’ to comment and uncomment.
-
-    *Note: The code initially plays a sine wave. To play a square wave,
-    comment line 52 and uncomment line 54 as shown below.*
-
-<img src="./assets/2_F26_TD_Activity/media/image4.png"
-style="width:6.5in;height:0.73403in" />
-
-  Demo your speaker design and allow the TAs to get a measurement of
-    your speaker cab’s loudness. For this you must have the waveform set
-    to the default Sine Wave in your code with a frequency value set to
-    1 kHz (this is the standard test tone).
-
-### Loudness Competition
-
-Each group will have their speaker loudness measured by the WEEF TAs or
-IDEAS CLINIC CO-OPS. You will be allowed to only change two parameters
-in the code for the loudness measurement:
-
-1.  The wave table can be selected by uncommenting the table that you
-    wish to use.
-
-2.  The frequency of the oscillator can be set.
-
-<img src="./assets/2_F26_TD_Activity/media/image5.png"
-style="width:6.5in;height:1.69444in"
-alt="A screen shot of a computer program Description automatically generated" />
-
-# Day 2 – Oct. 9
-
 ## Assemble Synthesizer
 
 The synthesizer you will be creating has two modes that you can switch
@@ -423,12 +323,11 @@ style="width:6.34653in;height:2.36842in" /></p></th>
 </tbody>
 </table>
 
-1.  As a group, choose a song and instrument that you want to recreate
-    using the synthesizer. In SYNTH\_SEQUENCER.ino, edit the NOTES\_3
-    and TIMES\_3 arrays according to the song you would like to play.
-    Usually doing a quick google search can get you the musical notes of
-    a particular song. It may also be wise to choose a song with a
-    melody that is easy to recognize (ex. nursery rhymes like “Mary had
+1.  Choose a song and instrument that you want to recreate using the synthesizer.
+    In SYNTH\_SEQUENCER.ino, edit the NOTES\_3 and TIMES\_3 arrays according to the
+    song you would like to play. Usually doing a quick google search can get you the
+    musical notes of a particular song. It may also be wise to choose a song
+    with a melody that is easy to recognize (ex. nursery rhymes like “Mary had
     a little lamb”). Once you have inputted the new notes and times for
     your chosen song, don’t forget to **change the number of elements**
     when initializing your array (see the number circled below).
@@ -437,13 +336,13 @@ style="width:6.34653in;height:2.36842in" /></p></th>
     style="width:4.98947in;height:1.8476in"
     alt="A screenshot of a computer Description automatically generated" />
 
-2.  If you wish to have a sequence repeat you must set the
+3.  If you wish to have a sequence repeat you must set the
     ‘sequence\_looping\_X’ variable where ‘X’ is the number of the
     sequence to true. If looping you must set the very first note of the
     list to ‘REST’, and the very first time to ‘0’ for the loop to work
     properly.
 
-3.  If you wish to change the type of Oscillator that you are using, you
+4.  If you wish to change the type of Oscillator that you are using, you
     can modify the ‘internal.cpp’ file. All you need to do is comment
     out the current oscillator and uncomment the oscillator that you
     wish to use. An image of the section that you can modify is shown
@@ -454,12 +353,3 @@ style="width:6.34653in;height:2.36842in" /></p></th>
     *Note: If you get an error saying that global variables use more
     than 100% of dynamic memory, try reducing the number of elements in
     your sequences to free up space.*
-
-## Day 2 Presentation
-
-Groups will be asked to raise their hands and present the programmed
-song to the TAs. Please don’t make a slide show :)
-
-Play the sequence on your synthesizer. Describe how your group chose
-which oscillator to use and then adjusted the attack, decay, sustain,
-and resonance values to better recreate the sound of the original song.
