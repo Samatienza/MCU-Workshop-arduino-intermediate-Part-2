@@ -1,5 +1,5 @@
 ---
-title: 'Arduino Intermediate Activity'
+title: 'Arduino Intermediate 2 Activity'
 ---
 
 ## Welcome to the Second Intermediate Workshop
