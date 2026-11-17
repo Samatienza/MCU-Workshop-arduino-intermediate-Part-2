@@ -24,10 +24,10 @@ By the end of this 2-hour workshop, you will have tested, programmed, and custom
 This workshop is broken up into a hardware setup guide and four hands-on exercises (~2 hours total):
 
 1. [00. Overview & Hardware Verification (10 mins)](00_overview.ipynb)
-2. [Exercise 1: Digital Waveforms & Acoustic Physics (25 mins)](exercises/01_wave_physics/tutorial.ipynb)
-3. [Exercise 2: Button Polling & Multi-Note Inputs (25 mins)](exercises/02_button_polling/tutorial.ipynb)
-4. [Exercise 3: Envelopes (ADSR) & LFO Modulation (25 mins)](exercises/03_envelopes_lfo/tutorial.ipynb)
-5. [Exercise 4: Parallel Arrays & Custom Song Sequencer (35 mins)](exercises/04_sequencer/tutorial.ipynb)
+2. [Exercise 1: Digital Waveforms & Acoustic Physics](exercises/01_wave_physics/tutorial.ipynb)
+3. [Exercise 2: Button Polling & Multi-Note Inputs](exercises/02_button_polling/tutorial.ipynb)
+4. [Exercise 3: Envelopes (ADSR) & LFO Modulation](exercises/03_envelopes_lfo/tutorial.ipynb)
+5. [Exercise 4: Parallel Arrays & Custom Song Sequencer](exercises/04_sequencer/tutorial.ipynb)
 
 ---
 Next: [Overview & Hardware Verification](00_overview.ipynb)
