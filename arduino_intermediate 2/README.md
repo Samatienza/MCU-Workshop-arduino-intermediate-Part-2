@@ -17,7 +17,7 @@ This intermediate workshop bridges digital audio theory with embedded microcontr
 
 # Table of Contents
 
-This workshop is broken up into four core exercises and a final sequencer challenge, matching the modular workflow of the Pong workshop:
+This workshop is broken up into four core exercises and a final sequencer challenge.
 
 1. [Synthesizer Architecture & Overview](00_overview.ipynb)
 2. [Exercise 1: Sound Waves – Pitch, Amplitude & Beats](exercises/01_pitch_amplitude_beats/tutorial.ipynb)
