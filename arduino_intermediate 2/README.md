@@ -20,11 +20,11 @@ This intermediate workshop bridges digital audio theory with embedded microcontr
 This workshop is broken up into four core exercises and a final sequencer challenge.
 
 1. [Synthesizer Architecture & Overview](00_overview.ipynb)
-2. [Exercise 1: Sound Waves – Pitch, Amplitude & Beats](exercises/01_pitch_amplitude_beats/tutorial.ipynb)
-3. [Exercise 2: Additive Synthesis & Envelopes](exercises/02_additive_envelopes/tutorial.ipynb)
-4. [Exercise 3: Hardware Diagnostics & Connection Check](exercises/03_hardware_check/tutorial.ipynb)
-5. [Exercise 4: Programming Polyphony in SYNTH_BASE](exercises/04_synth_base/tutorial.ipynb)
-6. [Final Challenge: Custom Song Sequencer](implementing_sequencer/instructions.ipynb)
+2. [Exercise 1: Sound Waves – Pitch, Amplitude & Beats](exercises/01_acoustic_physics/tutorial.ipynb)
+3. [Exercise 2: Additive Synthesis & Envelopes](exercises/02_waveform_synthesis/tutorial.ipynb)
+4. [Exercise 3: Hardware Diagnostics & Connection Check](exercises/03_hardware_assembly/tutorial.ipynb)
+5. [Exercise 4: Programming Polyphony in SYNTH_BASE](exercises/04_synthizer_programming/tutorial.ipynb)
+6. [Final Challenge: Custom Song Sequencer](song_sequencer/instructions.ipynb)
 
 ---
 Next: [Synthesizer Architecture & Overview](00_overview.ipynb)
