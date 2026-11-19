@@ -41,11 +41,11 @@ amplitude (and consequently, the volume) of the note decreases as the
 note is playing. Below are some visual examples:
 
 <img
-src="./assets/3_F26_TD_Manipulating_Sound_Waves/media/image2.png"
+src="./assets/3_F26_TD_Manipulating_Sound_Waves/image2.png"
 style="width:2.56904in;height:1.48947in"
 alt="A picture containing letter Description automatically generated" />
 <img
-src="./assets/3_F26_TD_Manipulating_Sound_Waves/media/image3.png"
+src="./assets/3_F26_TD_Manipulating_Sound_Waves/image3.png"
 style="width:2.5761in;height:1.52038in"
 alt="A picture containing text Description automatically generated" />
 
@@ -68,7 +68,7 @@ in the pitch which results in a drum-like sound. Below is a visual
 example:
 
 <img
-src="./assets/3_F26_TD_Manipulating_Sound_Waves/media/image4.png"
+src="./assets/3_F26_TD_Manipulating_Sound_Waves/image4.png"
 style="width:2.61736in;height:1.55456in"
 alt="Shape Description automatically generated with medium confidence" />
 
@@ -83,6 +83,6 @@ amplitude creates a “siren” type sound. You can observe the low and high
 frequencies of a sinusoid frequency below:
 
 <img
-src="./assets/3_F26_TD_Manipulating_Sound_Waves/media/image5.png"
+src="./assets/3_F26_TD_Manipulating_Sound_Waves/image5.png"
 style="width:6.5in;height:1.53889in"
 alt="A picture containing text, shoji, building Description automatically generated" />

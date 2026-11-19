@@ -34,7 +34,7 @@ elements enclosed in the curly brackets. Both arrays must have the same
 number of elements.</p>
 <p>The notes and times enclosed in the curly brackets are separated by
 commas.</p>
-<p><img src="./assets/2_F26_TD_Activity/media/image8.png"
+<p><img src="./assets/2_F26_TD_Activity/image8.png"
 style="width:6.34653in;height:2.36842in" /></p></th>
 </tr>
 </thead>
@@ -51,7 +51,7 @@ style="width:6.34653in;height:2.36842in" /></p></th>
     your chosen song, don’t forget to **change the number of elements**
     when initializing your array (see the number circled below).
 
-    <img src="./assets/2_F26_TD_Activity/media/image9.png"
+    <img src="./assets/2_F26_TD_Activity/image9.png"
     style="width:4.98947in;height:1.8476in"
     alt="A screenshot of a computer Description automatically generated" />
 
@@ -65,7 +65,7 @@ style="width:6.34653in;height:2.36842in" /></p></th>
     can modify the ‘internal.cpp’ file. All you need to do is comment
     out the current oscillator and uncomment the oscillator that you
     wish to use. An image of the section that you can modify is shown
-    below:<img src="./assets/2_F26_TD_Activity/media/image10.png"
+    below:<img src="./assets/2_F26_TD_Activity/image10.png"
     style="width:6.5in;height:1.44653in"
     alt="A screen shot of a computer code Description automatically generated" />
 

@@ -25,7 +25,7 @@ window. Select the following settings:
   duration of **2 seconds**
 
 <img
-src="./assets/3_F26_TD_Manipulating_Sound_Waves/media/image1.png"
+src="./assets/3_F26_TD_Manipulating_Sound_Waves/image1.png"
 style="width:3.67708in;height:1.5281in"
 alt="A screenshot of a calculator Description automatically generated" />
 
